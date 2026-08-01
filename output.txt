@@ -8026,3 +8026,5 @@
 174.137.61.42,443,US,IT7 Networks Inc
 219.76.13.166,443,HK,Netvigator
 212.192.6.248,443,TR,Baxet Group Inc.
+96.8.121.109,443,US,HostPapa
+192.3.251.89,443,US,HostPapa
